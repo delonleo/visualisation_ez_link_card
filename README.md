@@ -2,7 +2,7 @@
 
 [Download Paper here](https://s3-ap-southeast-1.amazonaws.com/delonleogithubio/visualisation_ez_link_card_20160423.pdf)
 
-[View Jupyter Notebook here](https://github.com/delonleo/visualisation_ez_link_card/visualisation_ez_link_card_20160327.ipynb)
+[View Jupyter Notebook here](https://github.com/delonleo/visualisation_ez_link_card/blob/master/visualisation_ez_link_card_20160327.ipynb)
 
 ## About 
 
